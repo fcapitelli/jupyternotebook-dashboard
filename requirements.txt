@@ -10,3 +10,4 @@ bokeh
 requests
 bs4
 yfinance
+html5lib
